@@ -1,0 +1,5 @@
+Steps you need to follow ,
+Install express for that visit https://expressjs.com/
+Create express project , by using express command followed by your application name
+Instal multer from npm , command npm install -s multer
+place where you want your file request to be handled import multer, see index.js
